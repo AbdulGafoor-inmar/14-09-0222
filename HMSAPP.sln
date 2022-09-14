@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMSAPP", "HMSAPP\HMSAPP.csproj", "{C04327E0-6E17-4CFF-8326-B174D5CB35F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMSAPP web", "HMSAPP web\HMSAPP web.csproj", "{DBCE35E4-08F1-4CB3-8DD8-E9EA6EF4CF88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C04327E0-6E17-4CFF-8326-B174D5CB35F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04327E0-6E17-4CFF-8326-B174D5CB35F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04327E0-6E17-4CFF-8326-B174D5CB35F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04327E0-6E17-4CFF-8326-B174D5CB35F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCE35E4-08F1-4CB3-8DD8-E9EA6EF4CF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCE35E4-08F1-4CB3-8DD8-E9EA6EF4CF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCE35E4-08F1-4CB3-8DD8-E9EA6EF4CF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCE35E4-08F1-4CB3-8DD8-E9EA6EF4CF88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F478435D-87D4-41F4-9C7C-21B1C2930351}
+	EndGlobalSection
+EndGlobal
