@@ -1,0 +1,17 @@
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\bin\Debug\HMSAPP.exe.config
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\bin\Debug\HMSAPP.exe
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\bin\Debug\HMSAPP.pdb
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\bin\Debug\Guna.UI2.dll
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\obj\Debug\HMSAPP.Form1.resources
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\obj\Debug\HMSAPP.Properties.Resources.resources
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\obj\Debug\HMSAPP.csproj.GenerateResource.cache
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\obj\Debug\HMSAPP.csproj.CoreCompileInputs.cache
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\obj\Debug\HMSAPP.csproj.CopyComplete
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\obj\Debug\HMSAPP.exe
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\obj\Debug\HMSAPP.pdb
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\obj\Debug\HMSAPP.Home.resources
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\obj\Debug\HMSAPP.Doctor.resources
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\obj\Debug\HMSAPP.Diagnosis.resources
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\obj\Debug\HMSAPP.Patient.resources
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\obj\Debug\HMSAPP.SplashHome.resources
+C:\Users\agafoor\source\repos\HMSAPP\HMSAPP\obj\Debug\HMSAPP.csproj.AssemblyReference.cache
